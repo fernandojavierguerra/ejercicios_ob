@@ -10,9 +10,9 @@ public class Tipos {
         System.out.println("byte: " + var_byte);
         short var_short = 5;
         System.out.println("short: " + var_short);
-        int var_int = 6;
+        int var_int = 64000;
         System.out.println("int: " + var_int);
-        long var_long = 7;
+        long var_long = 7000000;
         System.out.println("long: " + var_long);
         System.out.println("-------------------------------");
 
